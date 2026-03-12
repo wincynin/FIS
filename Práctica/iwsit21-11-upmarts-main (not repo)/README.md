@@ -8,13 +8,12 @@
 
 | Nombre      | Rol                   |
 |-------------|-----------------------|
-| `[Nombre 1]`  | Líder de Requisitos   |
-| `[Nombre 2]`  | Líder de Análisis     |
-| `[Nombre 3]`  | Integrante            |
-| `[Nombre 4]`  | Integrante            |
-| `[Nombre 5]`  | Integrante            |
+| `[MANZANARO CARABALLO PABLO]`      | Líder de Requisitos   |
+| `[MARTINEZ SEBASTIA NACHO]`        | Líder de Análisis     |
+| `[NAUTIYAL BHATT NINAD]`           | Integrante            |
+| `[VELISLAVOVA TSEKOVA CRISTIANA]`  | Integrante            |
 
-**Grupo de Prácticas:** `[Insertar Nº, ej: IWSIT21-11]`
+**Grupo de Prácticas:** `[IWSIT21-11]`
 
 ---
 
@@ -71,9 +70,8 @@ El análisis del sistema se ha realizado utilizando **UML 2.0** con la herramien
 
 | Plataforma      | Enlace                                      |
 |-----------------|---------------------------------------------|
-| 🔴 **Redmine**  | `[Insertar enlace a Redmine]`               |
-| 🔵 **GitLab**   | `[Insertar enlace al Repositorio de GitLab]`|
+| 🔴 **Redmine**  | `[https://fis.etsisi.upm.es/projects/iwsit21-11-upmarts]`               |
+| 🔵 **GitLab**   | `[https://gitlab.etsisi.upm.es/wincynin/iwsit21-11-upmarts]`|
 
 ---
 
-*Este README ha sido actualizado para una mejor visualización y legibilidad.*
